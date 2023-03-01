@@ -1,0 +1,17 @@
+{
+  "name": "prism/back-end-generator-dev",
+  "description": "Auto Generate Back-End Development",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Rustom R. Pedales Jr.",
+          "email": "pedales.rustom@gmail.com"
+      }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+      "psr-4": {"Prism\\BackEndAutomateDev\\": "src/"}
+  },
+  "require": {}
+}
